@@ -7,6 +7,7 @@ score will reset if you do.
 This project was built with React and was a good way to practice with
 styled-components.
 
+[Try it here](https://cesaraluna.github.io/poke-memory/)
 
 ## Acknowledgements
 
